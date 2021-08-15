@@ -3,6 +3,7 @@
 
 ## Introduction applicationn
 * Design a web application that allows register a new employees
+* Add/Remove/Edit/View employee
 
 
 ## Overview system
